@@ -2,4 +2,9 @@ neki kôd
 <coding-much>
 {so-flee}
 [WOW]
+<<<<<<< HEAD
 xD
+=======
+
+- izmjena
+>>>>>>> origin/andrej-new
